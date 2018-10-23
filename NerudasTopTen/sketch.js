@@ -617,7 +617,7 @@ function draw() {
       posx = posx + 150;
       if (posx > windowWidth / 1.05) {
         posx = 80,
-          posy = posy + 40;
+          posy = posy + 20;
         // text(items[i], width/2, ((i)*10+10));
         // print(items[i][1]);
         // createP('{ "word":"' + items[i][0] + '", "count":"' + items[i][1] + '"},');
